@@ -1,0 +1,51 @@
+[index.html](https://github.com/user-attachments/files/32759766/index.html)
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="GNEXUS.pro — le gardien de vos informations utiles à la décision.">
+  <title>GNEXUS.pro — Clarté. Décision. Mouvement.</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="interaction.css">
+  <link rel="stylesheet" href="desktop.css">
+</head>
+<body>
+<main>
+  <div class="wrap">
+    <nav class="nav" aria-label="Navigation principale">
+      <a class="brand brand-lockup" href="#top"><img class="brand-logo" src="assets/gnexus-logo.svg" alt="GNEXUS.pro"></a>
+      <div class="nav-links"><a href="#approche">L'approche</a><a href="#experience">L'expertise</a><a href="#solution">Le cockpit</a><a href="#impact">Votre impact</a></div>
+      <a href="#contact">Découvrir GNEXUS ↗</a>
+    </nav>
+    <section class="hero" id="top">
+      <div><p class="eyebrow">POUR DIRIGEANTS · CLARTÉ · DÉCISION · MOUVEMENT</p><h1>Voyez ce qui bloque.<br>Sachez quoi <em>faire.</em></h1><p class="brand-explainer"><strong>GNEXUS, le gardien de vos informations utiles à la décision.</strong><br>G comme Gardien. NEXUS comme le lien qui relie vos informations.</p><p class="lead">Quand l’information est dispersée, les décisions ralentissent et le revenu s’échappe. GNEXUS.pro vous montre où agir pour sécuriser ce qui compte, dégager du temps et remettre l’activité en mouvement.</p><a class="cta" href="#impact">Évaluer mon enjeu →</a></div>
+      <div class="graphic"><div class="cockpit-preview" aria-label="Aperçu du cockpit GNEXUS"><div class="cockpit-header"><span>GNEXUS / AUJOURD'HUI</span><span class="live-dot">MISE À JOUR</span></div><div class="signal-main"><span>SIGNAL PRIORITAIRE</span><strong>3 dossiers<br>à sécuriser</strong><em>142 000 € d’enjeu</em></div><div class="signal-row"><div><span>RELANCES</span><b>12</b><small>à décider</small></div><div><span>TEMPS À DÉGAGER</span><b>10 h</b><small>cette semaine</small></div></div></div></div>
+    </section>
+  </div>
+  <div class="band">OBSERVER — COMPRENDRE — DÉCIDER · VOUS GARDEZ LA MAIN</div>
+  <section class="section" id="approche"><div class="wrap section-grid"><p class="eyebrow">01 / CE QUE FAIT GNEXUS</p><div><h2>L'essentiel remonte.<br>Vous décidez.</h2><p class="lead">Ne perdez plus vos matinées à chercher l’information dans les tableurs, les outils commerciaux et les messages. GNEXUS.pro fait remonter ce qui freine le revenu, immobilise l’équipe ou attend une décision. Vous gardez la main — avec une vision enfin claire.</p><div class="cards"><article class="card"><span class="number">01</span><h3>Voir ce qui coûte</h3><p>Repérez les dossiers qui stagnent, les écarts qui s’installent et les opportunités qui vous échappent.</p></article><article class="card"><span class="number">02</span><h3>Savoir où agir</h3><p>Concentrez-vous sur les urgences qui ont le plus d’impact sur le revenu, le temps et la performance.</p></article><article class="card"><span class="number">03</span><h3>Décider sans attendre</h3><p>Transformez chaque signal en action claire, assumée et suivie par les bonnes personnes.</p></article></div></div></div></section>
+  <section class="section expertise" id="experience"><div class="wrap section-grid"><p class="eyebrow">02 / UNE APPROCHE DE TERRAIN</p><div><h2>Du discernement. Pas du reporting de plus.</h2><p class="lead">La valeur ne vient pas d’un tableau de bord supplémentaire. Elle vient de la capacité à relier les informations, lire les écarts et préparer les bonnes décisions. GNEXUS.pro s’appuie sur plus de 20 ans d’expérience B2B auprès de directions de TPE, PME et ETI.</p><div class="cards"><article class="card"><span class="number">PILOTER</span><h3>La performance</h3><p>Vos objectifs, KPI, plans d’action et résultats deviennent lisibles, comparables et suivis.</p></article><article class="card"><span class="number">STRUCTURER</span><h3>Le mouvement</h3><p>Les besoins, risques et expertises s’alignent autour d’un cap commun, sans perte d’énergie.</p></article><article class="card"><span class="number">ARBITRER</span><h3>Avec confiance</h3><p>Les données et scénarios deviennent des synthèses fiables pour décider avec lucidité.</p></article></div></div></div></section>
+  <section class="callout" id="solution"><div class="wrap"><p class="eyebrow">03 / LE COCKPIT GNEXUS.PRO</p><h2>Ce qui mérite votre attention. Avant que cela ne vous coûte.</h2><p class="lead">GNEXUS transforme une journée de recherche en une lecture immédiate : le revenu à protéger, les dossiers qui n’avancent pas, les équipes à débloquer et l’action qui fera la différence.</p></div></section>
+  <section class="section" id="impact"><div class="wrap section-grid"><p class="eyebrow">04 / MESUREZ L'ENJEU</p><div><h2><span class="impact-first-line">Le temps perdu a un coût.</span><br>Rendez-le visible.</h2><p class="lead">Ajustez ces repères pour estimer la valeur du temps aujourd'hui absorbé par la recherche d'information, les relances ou les réunions sans décision.</p><div class="impact-tool" aria-label="Estimateur de temps à dégager"><div class="inputs"><label>Personnes concernées<input id="gn-people" type="number" min="1" max="1000" value="5"></label><label>Heures perdues / semaine<input id="gn-hours" type="number" min="0" max="40" step="0.5" value="2"></label><label>Coût horaire moyen (€)<input id="gn-rate" type="number" min="1" max="10000" value="45"></label></div><div class="impact-result" aria-live="polite"><span class="eyebrow">ENJEU ESTIMÉ PAR AN</span><strong id="gn-total">23 400 €</strong><p id="gn-detail">10 h par semaine à rendre utiles.</p><small>Estimation indicative basée sur 52 semaines. GNEXUS permet d’identifier et de prioriser ces zones de friction ; le résultat dépend de votre organisation et de vos actions.</small></div></div></div></div></section>
+  <section class="section" id="contact"><div class="wrap section-grid"><p class="eyebrow">05 / PROCHAINE ÉTAPE</p><div><h2>Et si vos décisions redevenaient un avantage ?</h2><p class="lead">Partons de votre réalité : données dispersées, priorités floues, revenus à sécuriser et décisions qui prennent trop de temps. Identifions où GNEXUS.pro peut créer le plus de clarté, de vitesse et de valeur.</p><a class="cta" href="mailto:contact@gnexuspro.fr">Échanger sur vos priorités →</a></div></div></section>
+</main>
+<footer class="wrap" style="padding:32px 0;font:12px monospace">© 2026 GNEXUS.pro — CLARTÉ · DÉCISION · MOUVEMENT</footer>
+<script>
+  (function () {
+    var ids = ['gn-people', 'gn-hours', 'gn-rate'];
+    function calculate() {
+      var people = Number(document.getElementById('gn-people').value) || 0;
+      var hours = Number(document.getElementById('gn-hours').value) || 0;
+      var rate = Number(document.getElementById('gn-rate').value) || 0;
+      var weekly = people * hours;
+      var total = weekly * rate * 52;
+      document.getElementById('gn-total').textContent = total.toLocaleString('fr-FR', {maximumFractionDigits: 0}) + ' €';
+      document.getElementById('gn-detail').textContent = weekly.toLocaleString('fr-FR') + ' h par semaine à rendre utiles.';
+    }
+    ids.forEach(function (id) { document.getElementById(id).addEventListener('input', calculate); });
+    calculate();
+  }());
+</script>
+</body>
+</html>
